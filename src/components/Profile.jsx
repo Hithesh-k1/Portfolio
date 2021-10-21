@@ -27,10 +27,9 @@ export default function Header_() {
             <a href="https://instagram.com/hithesh__k" className="instagram">
               <i class="fab fa-instagram"></i>
             </a>
-
-            <a href="https://twitter.com/Hitheshk4?s=08" className="linkedin">
-              <i class="fab fa-twitter"></i>
-            </a>
+    <a href="https://dev.to/hithesh__k" className="linkedin">
+          <i class="fab fa-dev"></i>
+        </a>
             <a
               href="https://stackoverflow.com/users/12134535/hithesh-k?tab=profile"
               className="linkedin"
